@@ -2,3 +2,6 @@
 
 
 Co ja pacze
+
+
+Zmiana
